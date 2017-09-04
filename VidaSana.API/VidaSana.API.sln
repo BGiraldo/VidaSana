@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VidaSana.API", "VidaSana.API\VidaSana.API.csproj", "{EEDD3FC6-E648-416C-92AB-FC30F9E70826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEDD3FC6-E648-416C-92AB-FC30F9E70826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDD3FC6-E648-416C-92AB-FC30F9E70826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDD3FC6-E648-416C-92AB-FC30F9E70826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDD3FC6-E648-416C-92AB-FC30F9E70826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F3E2BEE-6DE6-4F11-9CA1-9F0EAACEFF5A}
+	EndGlobalSection
+EndGlobal
