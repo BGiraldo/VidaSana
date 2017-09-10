@@ -19,10 +19,10 @@ C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\XUnitTestClient\bin\Debug\netco
 C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\XUnitTestClient.runtimeconfig.dev.json
 C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\XUnitTestClient.dll
 C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\XUnitTestClient.pdb
+C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\VidaSana.API.dll
+C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\VidaSana.API.pdb
 C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\XUnitTestClient\obj\Debug\netcoreapp1.1\XUnitTestClient.csprojResolveAssemblyReference.cache
 C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\XUnitTestClient\obj\Debug\netcoreapp1.1\XUnitTestClient.csproj.CoreCompileInputs.cache
 C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\XUnitTestClient\obj\Debug\netcoreapp1.1\XUnitTestClient.AssemblyInfo.cs
 C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\XUnitTestClient\obj\Debug\netcoreapp1.1\XUnitTestClient.dll
 C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\XUnitTestClient\obj\Debug\netcoreapp1.1\XUnitTestClient.pdb
-C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\VidaSana.API.dll
-C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\VidaSana.API.pdb
