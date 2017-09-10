@@ -1,0 +1,13 @@
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\XUnitTestClient.deps.json
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\XUnitTestClient.runtimeconfig.json
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\XUnitTestClient.runtimeconfig.dev.json
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\XUnitTestClient.dll
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\XUnitTestClient\bin\Debug\netcoreapp1.1\XUnitTestClient.pdb
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\XUnitTestClient\obj\Debug\netcoreapp1.1\XUnitTestClient.csprojResolveAssemblyReference.cache
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\XUnitTestClient\obj\Debug\netcoreapp1.1\XUnitTestClient.csproj.CoreCompileInputs.cache
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\XUnitTestClient\obj\Debug\netcoreapp1.1\XUnitTestClient.AssemblyInfo.cs
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\XUnitTestClient\obj\Debug\netcoreapp1.1\XUnitTestClient.dll
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\XUnitTestClient\obj\Debug\netcoreapp1.1\XUnitTestClient.pdb

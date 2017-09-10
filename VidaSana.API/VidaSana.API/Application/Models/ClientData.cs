@@ -13,7 +13,15 @@ namespace VidaSana.API.Application.Models
 
         public string CompleteName { get; set; }
 
-        public DateTime Birthdate  { get; set; }
+        public DateTime Birthdate { get; set; }
+
+        /*
+        public ClientData(string document, string completeName, DateTime birthdate)
+        {
+            Document = document;
+            CompleteName = completeName;
+            Birthdate = birthdate;
+        }*/
         
     }
 }

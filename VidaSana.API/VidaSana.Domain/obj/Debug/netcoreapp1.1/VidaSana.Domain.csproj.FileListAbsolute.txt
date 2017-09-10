@@ -1,0 +1,7 @@
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Domain\bin\Debug\netcoreapp1.1\VidaSana.Domain.deps.json
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Domain\bin\Debug\netcoreapp1.1\VidaSana.Domain.dll
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Domain\bin\Debug\netcoreapp1.1\VidaSana.Domain.pdb
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Domain\obj\Debug\netcoreapp1.1\VidaSana.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Domain\obj\Debug\netcoreapp1.1\VidaSana.Domain.AssemblyInfo.cs
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Domain\obj\Debug\netcoreapp1.1\VidaSana.Domain.dll
+C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Domain\obj\Debug\netcoreapp1.1\VidaSana.Domain.pdb

@@ -831,6 +831,15 @@
           "lib/netstandard1.3/Microsoft.CodeAnalysis.VisualBasic.dll": {}
         }
       },
+      "Microsoft.CodeCoverage/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -4453,6 +4462,16 @@
         "lib/portable-net45+win8/Microsoft.CodeAnalysis.VisualBasic.xml",
         "microsoft.codeanalysis.visualbasic.1.3.0.nupkg.sha512",
         "microsoft.codeanalysis.visualbasic.nuspec"
+      ]
+    },
+    "Microsoft.CodeCoverage/1.0.3": {
+      "sha512": "5KfX12XPfvBomjrZv9nCBfQ6lhZdroVxXvGnY6MqzG83bjqdq6SQ3xxJFdPgHv6oli83M9oNhZlynYehjmboUg==",
+      "type": "package",
+      "path": "microsoft.codecoverage/1.0.3",
+      "files": [
+        "lib/netstandard1.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll",
+        "microsoft.codecoverage.1.0.3.nupkg.sha512",
+        "microsoft.codecoverage.nuspec"
       ]
     },
     "Microsoft.CSharp/4.3.0": {
@@ -10119,6 +10138,7 @@
       "Microsoft.ApplicationInsights.AspNetCore >= 2.0.0",
       "Microsoft.AspNetCore >= 1.1.2",
       "Microsoft.AspNetCore.Mvc >= 1.1.3",
+      "Microsoft.CodeCoverage >= 1.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 1.1.2",
       "Microsoft.Extensions.Logging.Debug >= 1.1.2",
       "Microsoft.NETCore.App >= 1.1.2"
@@ -10133,11 +10153,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nine\\Source\\Repos\\VidaSana\\VidaSana.API\\VidaSana.API\\VidaSana.API.csproj",
+      "projectUniqueName": "C:\\Users\\Nine\\Documents\\Visual Studio 2017\\Projects\\VidaSana.API\\VidaSana.API\\VidaSana.API.csproj",
       "projectName": "VidaSana.API",
-      "projectPath": "C:\\Users\\Nine\\Source\\Repos\\VidaSana\\VidaSana.API\\VidaSana.API\\VidaSana.API.csproj",
+      "projectPath": "C:\\Users\\Nine\\Documents\\Visual Studio 2017\\Projects\\VidaSana.API\\VidaSana.API\\VidaSana.API.csproj",
       "packagesPath": "C:\\Users\\Nine\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nine\\Source\\Repos\\VidaSana\\VidaSana.API\\VidaSana.API\\obj\\",
+      "outputPath": "C:\\Users\\Nine\\Documents\\Visual Studio 2017\\Projects\\VidaSana.API\\VidaSana.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nine\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10183,6 +10203,10 @@
           "Microsoft.ApplicationInsights.AspNetCore": {
             "target": "Package",
             "version": "2.0.0"
+          },
+          "Microsoft.CodeCoverage": {
+            "target": "Package",
+            "version": "1.0.3"
           }
         }
       }
