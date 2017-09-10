@@ -1,7 +1,0 @@
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\TestAPI\ClientService\bin\Debug\netstandard1.4\ClientService.deps.json
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\TestAPI\ClientService\bin\Debug\netstandard1.4\ClientService.dll
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\TestAPI\ClientService\bin\Debug\netstandard1.4\ClientService.pdb
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\TestAPI\ClientService\obj\Debug\netstandard1.4\ClientService.csproj.CoreCompileInputs.cache
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\TestAPI\ClientService\obj\Debug\netstandard1.4\ClientService.AssemblyInfo.cs
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\TestAPI\ClientService\obj\Debug\netstandard1.4\ClientService.dll
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\TestAPI\ClientService\obj\Debug\netstandard1.4\ClientService.pdb

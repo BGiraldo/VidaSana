@@ -8,3 +8,13 @@ C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.API\ob
 C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.API\obj\Debug\netcoreapp1.1\VidaSana.API.dll
 C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.API\obj\Debug\netcoreapp1.1\VidaSana.API.pdb
 C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.API\obj\Debug\netcoreapp1.1\VidaSana.API.csprojResolveAssemblyReference.cache
+C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\VidaSana.API\bin\Debug\netcoreapp1.1\VidaSana.API.deps.json
+C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\VidaSana.API\bin\Debug\netcoreapp1.1\VidaSana.API.runtimeconfig.json
+C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\VidaSana.API\bin\Debug\netcoreapp1.1\VidaSana.API.runtimeconfig.dev.json
+C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\VidaSana.API\bin\Debug\netcoreapp1.1\VidaSana.API.dll
+C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\VidaSana.API\bin\Debug\netcoreapp1.1\VidaSana.API.pdb
+C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\VidaSana.API\obj\Debug\netcoreapp1.1\VidaSana.API.csprojResolveAssemblyReference.cache
+C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\VidaSana.API\obj\Debug\netcoreapp1.1\VidaSana.API.csproj.CoreCompileInputs.cache
+C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\VidaSana.API\obj\Debug\netcoreapp1.1\VidaSana.API.AssemblyInfo.cs
+C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\VidaSana.API\obj\Debug\netcoreapp1.1\VidaSana.API.dll
+C:\Users\Nine\Source\Repos\VidaSana\VidaSana.API\VidaSana.API\obj\Debug\netcoreapp1.1\VidaSana.API.pdb

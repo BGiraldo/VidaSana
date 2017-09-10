@@ -10153,11 +10153,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nine\\Documents\\Visual Studio 2017\\Projects\\VidaSana.API\\VidaSana.API\\VidaSana.API.csproj",
+      "projectUniqueName": "C:\\Users\\Nine\\Source\\Repos\\VidaSana\\VidaSana.API\\VidaSana.API\\VidaSana.API.csproj",
       "projectName": "VidaSana.API",
-      "projectPath": "C:\\Users\\Nine\\Documents\\Visual Studio 2017\\Projects\\VidaSana.API\\VidaSana.API\\VidaSana.API.csproj",
+      "projectPath": "C:\\Users\\Nine\\Source\\Repos\\VidaSana\\VidaSana.API\\VidaSana.API\\VidaSana.API.csproj",
       "packagesPath": "C:\\Users\\Nine\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nine\\Documents\\Visual Studio 2017\\Projects\\VidaSana.API\\VidaSana.API\\obj\\",
+      "outputPath": "C:\\Users\\Nine\\Source\\Repos\\VidaSana\\VidaSana.API\\VidaSana.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nine\\AppData\\Roaming\\NuGet\\NuGet.Config",
