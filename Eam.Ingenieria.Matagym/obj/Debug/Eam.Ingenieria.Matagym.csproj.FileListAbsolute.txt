@@ -1,0 +1,188 @@
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\ApplicationInsights.config
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\csc.exe
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\csc.exe.config
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\csc.rsp
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\csi.exe
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\csi.exe.config
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\csi.rsp
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.AppContext.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Console.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.IO.Compression.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Security.Claims.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Threading.Thread.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.ValueTuple.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\vbc.exe
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\vbc.exe.config
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\vbc.rsp
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\VBCSCompiler.exe
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Eam.Ingenieria.Matagym.dll.config
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Eam.Ingenieria.Matagym.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Eam.Ingenieria.Matagym.pdb
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Antlr3.Runtime.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\EntityFramework.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\EntityFramework.SqlServer.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.Web.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Newtonsoft.Json.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Helpers.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Mvc.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Optimization.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Razor.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.WebPages.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.WebPages.Razor.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\WebGrease.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\EntityFramework.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\EntityFramework.SqlServer.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Helpers.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Mvc.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Optimization.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Razor.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.WebPages.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.WebPages.Razor.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Antlr3.Runtime.pdb
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Newtonsoft.Json.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.Web.xml
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\obj\Debug\Eam.Ingenieria.Matagym.csproj.CoreCompileInputs.cache
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\obj\Debug\Eam.Ingenieria.Matagym.dll
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\obj\Debug\Eam.Ingenieria.Matagym.pdb
+C:\Users\jcardona\Documents\Visual Studio 2017\Projects\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\obj\Debug\Eam.Ingenieria.Matagym.csprojResolveAssemblyReference.cache
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\ApplicationInsights.config
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\csc.exe
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\csc.exe.config
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\csc.rsp
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\csi.exe
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\csi.exe.config
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\csi.rsp
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\Microsoft.Win32.Primitives.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.AppContext.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Collections.Immutable.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Console.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Diagnostics.Process.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.IO.Compression.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.IO.FileSystem.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.IO.Pipes.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Reflection.Metadata.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Security.AccessControl.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Security.Claims.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Security.Principal.Windows.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Threading.Thread.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.ValueTuple.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Xml.XmlDocument.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Xml.XPath.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\vbc.exe
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\vbc.exe.config
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\vbc.rsp
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\VBCSCompiler.exe
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\roslyn\VBCSCompiler.exe.config
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Eam.Ingenieria.Matagym.dll.config
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Eam.Ingenieria.Matagym.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Eam.Ingenieria.Matagym.pdb
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Antlr3.Runtime.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\EntityFramework.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\EntityFramework.SqlServer.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.Agent.Intercept.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.DependencyCollector.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.PerfCounterCollector.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.ServerTelemetryChannel.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.Web.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.WindowsServer.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.ApplicationInsights.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.Web.Infrastructure.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Newtonsoft.Json.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Helpers.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Mvc.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Optimization.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Razor.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.WebPages.Deployment.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.WebPages.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.WebPages.Razor.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\WebGrease.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\EntityFramework.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\EntityFramework.SqlServer.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Helpers.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Mvc.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Optimization.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.Razor.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.WebPages.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.WebPages.Deployment.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\System.Web.WebPages.Razor.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Antlr3.Runtime.pdb
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Newtonsoft.Json.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.ApplicationInsights.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.DependencyCollector.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.ServerTelemetryChannel.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.WindowsServer.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\bin\Microsoft.AI.Web.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\obj\Debug\Eam.Ingenieria.Matagym.csprojResolveAssemblyReference.cache
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\obj\Debug\Eam.Ingenieria.Matagym.csproj.CoreCompileInputs.cache
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\obj\Debug\Eam.Ingenieria.Matagym.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\Eam.Ingenieria.Matagym\obj\Debug\Eam.Ingenieria.Matagym.pdb

@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Eam.Android.Matagym.DatabaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="C__EFMigrationsHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+    </Key>
+    <Property Name="MigrationId" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ProductVersion" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Challenge">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Guid" Nullable="false" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="difficult" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="type" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ChallengeStages" Relationship="Self.FK_ChallengeStages_Challenges_challengeid" FromRole="Challenges" ToRole="ChallengeStages" />
+  </EntityType>
+  <EntityType Name="ChallengeStage">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Guid" Nullable="false" />
+    <Property Name="challengeid" Type="Guid" />
+    <Property Name="stageid" Type="Guid" />
+    <NavigationProperty Name="Challenge" Relationship="Self.FK_ChallengeStages_Challenges_challengeid" FromRole="ChallengeStages" ToRole="Challenges" />
+    <NavigationProperty Name="Stage" Relationship="Self.FK_ChallengeStages_Stages_stageid" FromRole="ChallengeStages" ToRole="Stages" />
+  </EntityType>
+  <EntityType Name="Gym">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Guid" Nullable="false" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="latitude" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="longitude" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="News" Relationship="Self.FK_News_Gyms_Gymid" FromRole="Gyms" ToRole="News" />
+    <NavigationProperty Name="Persons" Relationship="Self.FK_Persons_Gyms_gymid" FromRole="Gyms" ToRole="Persons" />
+  </EntityType>
+  <EntityType Name="Image">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Guid" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="photo" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="type" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="NewImages" Relationship="Self.FK_NewImages_Images_imageid" FromRole="Images" ToRole="NewImages" />
+    <NavigationProperty Name="StageImages" Relationship="Self.FK_StageImage_Images_imageid" FromRole="Images" ToRole="StageImage" />
+  </EntityType>
+  <EntityType Name="Login">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Guid" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="personid" Type="Guid" />
+    <Property Name="username" Type="String" MaxLength="450" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Person" Relationship="Self.FK_Logins_Persons_personid" FromRole="Logins" ToRole="Persons" />
+  </EntityType>
+  <EntityType Name="Measurement">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Guid" Nullable="false" />
+    <Property Name="Personid" Type="Guid" />
+    <Property Name="bodyFat" Type="Double" Nullable="false" />
+    <Property Name="date" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="heartRate" Type="Double" Nullable="false" />
+    <Property Name="height" Type="Double" Nullable="false" />
+    <Property Name="weight" Type="Double" Nullable="false" />
+    <NavigationProperty Name="Person" Relationship="Self.FK_Measurements_Persons_Personid" FromRole="Measurements" ToRole="Persons" />
+  </EntityType>
+  <EntityType Name="NewImage">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Guid" Nullable="false" />
+    <Property Name="imageid" Type="Guid" />
+    <Property Name="noticeid" Type="Guid" />
+    <NavigationProperty Name="Image" Relationship="Self.FK_NewImages_Images_imageid" FromRole="NewImages" ToRole="Images" />
+    <NavigationProperty Name="News" Relationship="Self.FK_NewImages_News_noticeid" FromRole="NewImages" ToRole="News" />
+  </EntityType>
+  <EntityType Name="News">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Guid" Nullable="false" />
+    <Property Name="Gymid" Type="Guid" />
+    <Property Name="date" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="title" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Gym" Relationship="Self.FK_News_Gyms_Gymid" FromRole="News" ToRole="Gyms" />
+    <NavigationProperty Name="NewImages" Relationship="Self.FK_NewImages_News_noticeid" FromRole="News" ToRole="NewImages" />
+  </EntityType>
+  <EntityType Name="PersonRoutine">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Guid" Nullable="false" />
+    <Property Name="routineid" Type="Guid" />
+    <Property Name="trainerid" Type="Guid" />
+    <Property Name="userid" Type="Guid" />
+    <NavigationProperty Name="Person" Relationship="Self.FK_PersonRoutines_Persons_trainerid" FromRole="PersonRoutines" ToRole="Persons" />
+    <NavigationProperty Name="Person1" Relationship="Self.FK_PersonRoutines_Persons_userid" FromRole="PersonRoutines" ToRole="Persons" />
+    <NavigationProperty Name="Routine" Relationship="Self.FK_PersonRoutines_Routines_routineid" FromRole="PersonRoutines" ToRole="Routines" />
+  </EntityType>
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Guid" Nullable="false" />
+    <Property Name="address" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="age" Type="Int32" Nullable="false" />
+    <Property Name="documentId" Type="Int32" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="gymid" Type="Guid" />
+    <Property Name="lastname" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="phone" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Gym" Relationship="Self.FK_Persons_Gyms_gymid" FromRole="Persons" ToRole="Gyms" />
+    <NavigationProperty Name="Logins" Relationship="Self.FK_Logins_Persons_personid" FromRole="Persons" ToRole="Logins" />
+    <NavigationProperty Name="Measurements" Relationship="Self.FK_Measurements_Persons_Personid" FromRole="Persons" ToRole="Measurements" />
+    <NavigationProperty Name="PersonRoutines" Relationship="Self.FK_PersonRoutines_Persons_trainerid" FromRole="Persons" ToRole="PersonRoutines" />
+    <NavigationProperty Name="PersonRoutines1" Relationship="Self.FK_PersonRoutines_Persons_userid" FromRole="Persons" ToRole="PersonRoutines" />
+  </EntityType>
+  <EntityType Name="Routine">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Guid" Nullable="false" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="kindOfRoutine" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="typeRoutine" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="PersonRoutines" Relationship="Self.FK_PersonRoutines_Routines_routineid" FromRole="Routines" ToRole="PersonRoutines" />
+    <NavigationProperty Name="RoutineStages" Relationship="Self.FK_RoutineStages_Routines_routineid" FromRole="Routines" ToRole="RoutineStages" />
+  </EntityType>
+  <EntityType Name="RoutineStage">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Guid" Nullable="false" />
+    <Property Name="routineid" Type="Guid" />
+    <Property Name="stageid" Type="Guid" />
+    <NavigationProperty Name="Routine" Relationship="Self.FK_RoutineStages_Routines_routineid" FromRole="RoutineStages" ToRole="Routines" />
+    <NavigationProperty Name="Stage" Relationship="Self.FK_RoutineStages_Stages_stageid" FromRole="RoutineStages" ToRole="Stages" />
+  </EntityType>
+  <EntityType Name="StageImage">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Guid" Nullable="false" />
+    <Property Name="imageid" Type="Guid" />
+    <Property Name="stageid" Type="Guid" />
+    <NavigationProperty Name="Image" Relationship="Self.FK_StageImage_Images_imageid" FromRole="StageImage" ToRole="Images" />
+    <NavigationProperty Name="Stage" Relationship="Self.FK_StageImage_Stages_stageid" FromRole="StageImage" ToRole="Stages" />
+  </EntityType>
+  <EntityType Name="Stage">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Guid" Nullable="false" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="type" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ChallengeStages" Relationship="Self.FK_ChallengeStages_Stages_stageid" FromRole="Stages" ToRole="ChallengeStages" />
+    <NavigationProperty Name="RoutineStages" Relationship="Self.FK_RoutineStages_Stages_stageid" FromRole="Stages" ToRole="RoutineStages" />
+    <NavigationProperty Name="StageImages" Relationship="Self.FK_StageImage_Stages_stageid" FromRole="Stages" ToRole="StageImage" />
+  </EntityType>
+  <Association Name="FK_ChallengeStages_Challenges_challengeid">
+    <End Role="Challenges" Type="Self.Challenge" Multiplicity="0..1" />
+    <End Role="ChallengeStages" Type="Self.ChallengeStage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Challenges">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ChallengeStages">
+        <PropertyRef Name="challengeid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ChallengeStages_Stages_stageid">
+    <End Role="Stages" Type="Self.Stage" Multiplicity="0..1" />
+    <End Role="ChallengeStages" Type="Self.ChallengeStage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Stages">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ChallengeStages">
+        <PropertyRef Name="stageid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_News_Gyms_Gymid">
+    <End Role="Gyms" Type="Self.Gym" Multiplicity="0..1" />
+    <End Role="News" Type="Self.News" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Gyms">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="News">
+        <PropertyRef Name="Gymid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Persons_Gyms_gymid">
+    <End Role="Gyms" Type="Self.Gym" Multiplicity="0..1" />
+    <End Role="Persons" Type="Self.Person" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Gyms">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Persons">
+        <PropertyRef Name="gymid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NewImages_Images_imageid">
+    <End Role="Images" Type="Self.Image" Multiplicity="0..1" />
+    <End Role="NewImages" Type="Self.NewImage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Images">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="NewImages">
+        <PropertyRef Name="imageid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StageImage_Images_imageid">
+    <End Role="Images" Type="Self.Image" Multiplicity="0..1" />
+    <End Role="StageImage" Type="Self.StageImage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Images">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="StageImage">
+        <PropertyRef Name="imageid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Logins_Persons_personid">
+    <End Role="Persons" Type="Self.Person" Multiplicity="0..1" />
+    <End Role="Logins" Type="Self.Login" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persons">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Logins">
+        <PropertyRef Name="personid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Measurements_Persons_Personid">
+    <End Role="Persons" Type="Self.Person" Multiplicity="0..1" />
+    <End Role="Measurements" Type="Self.Measurement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persons">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Measurements">
+        <PropertyRef Name="Personid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NewImages_News_noticeid">
+    <End Role="News" Type="Self.News" Multiplicity="0..1" />
+    <End Role="NewImages" Type="Self.NewImage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="News">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="NewImages">
+        <PropertyRef Name="noticeid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PersonRoutines_Persons_trainerid">
+    <End Role="Persons" Type="Self.Person" Multiplicity="0..1" />
+    <End Role="PersonRoutines" Type="Self.PersonRoutine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persons">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="PersonRoutines">
+        <PropertyRef Name="trainerid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PersonRoutines_Persons_userid">
+    <End Role="Persons" Type="Self.Person" Multiplicity="0..1" />
+    <End Role="PersonRoutines" Type="Self.PersonRoutine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persons">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="PersonRoutines">
+        <PropertyRef Name="userid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PersonRoutines_Routines_routineid">
+    <End Role="Routines" Type="Self.Routine" Multiplicity="0..1" />
+    <End Role="PersonRoutines" Type="Self.PersonRoutine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Routines">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="PersonRoutines">
+        <PropertyRef Name="routineid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RoutineStages_Routines_routineid">
+    <End Role="Routines" Type="Self.Routine" Multiplicity="0..1" />
+    <End Role="RoutineStages" Type="Self.RoutineStage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Routines">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="RoutineStages">
+        <PropertyRef Name="routineid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RoutineStages_Stages_stageid">
+    <End Role="Stages" Type="Self.Stage" Multiplicity="0..1" />
+    <End Role="RoutineStages" Type="Self.RoutineStage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Stages">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="RoutineStages">
+        <PropertyRef Name="stageid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StageImage_Stages_stageid">
+    <End Role="Stages" Type="Self.Stage" Multiplicity="0..1" />
+    <End Role="StageImage" Type="Self.StageImage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Stages">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="StageImage">
+        <PropertyRef Name="stageid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="C__EFMigrationsHistory" EntityType="Self.C__EFMigrationsHistory" />
+    <EntitySet Name="Challenges" EntityType="Self.Challenge" />
+    <EntitySet Name="ChallengeStages" EntityType="Self.ChallengeStage" />
+    <EntitySet Name="Gyms" EntityType="Self.Gym" />
+    <EntitySet Name="Images" EntityType="Self.Image" />
+    <EntitySet Name="Logins" EntityType="Self.Login" />
+    <EntitySet Name="Measurements" EntityType="Self.Measurement" />
+    <EntitySet Name="NewImages" EntityType="Self.NewImage" />
+    <EntitySet Name="News" EntityType="Self.News" />
+    <EntitySet Name="PersonRoutines" EntityType="Self.PersonRoutine" />
+    <EntitySet Name="Persons" EntityType="Self.Person" />
+    <EntitySet Name="Routines" EntityType="Self.Routine" />
+    <EntitySet Name="RoutineStages" EntityType="Self.RoutineStage" />
+    <EntitySet Name="StageImages" EntityType="Self.StageImage" />
+    <EntitySet Name="Stages" EntityType="Self.Stage" />
+    <AssociationSet Name="FK_ChallengeStages_Challenges_challengeid" Association="Self.FK_ChallengeStages_Challenges_challengeid">
+      <End Role="Challenges" EntitySet="Challenges" />
+      <End Role="ChallengeStages" EntitySet="ChallengeStages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ChallengeStages_Stages_stageid" Association="Self.FK_ChallengeStages_Stages_stageid">
+      <End Role="Stages" EntitySet="Stages" />
+      <End Role="ChallengeStages" EntitySet="ChallengeStages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_News_Gyms_Gymid" Association="Self.FK_News_Gyms_Gymid">
+      <End Role="Gyms" EntitySet="Gyms" />
+      <End Role="News" EntitySet="News" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Persons_Gyms_gymid" Association="Self.FK_Persons_Gyms_gymid">
+      <End Role="Gyms" EntitySet="Gyms" />
+      <End Role="Persons" EntitySet="Persons" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NewImages_Images_imageid" Association="Self.FK_NewImages_Images_imageid">
+      <End Role="Images" EntitySet="Images" />
+      <End Role="NewImages" EntitySet="NewImages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StageImage_Images_imageid" Association="Self.FK_StageImage_Images_imageid">
+      <End Role="Images" EntitySet="Images" />
+      <End Role="StageImage" EntitySet="StageImages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Logins_Persons_personid" Association="Self.FK_Logins_Persons_personid">
+      <End Role="Persons" EntitySet="Persons" />
+      <End Role="Logins" EntitySet="Logins" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Measurements_Persons_Personid" Association="Self.FK_Measurements_Persons_Personid">
+      <End Role="Persons" EntitySet="Persons" />
+      <End Role="Measurements" EntitySet="Measurements" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NewImages_News_noticeid" Association="Self.FK_NewImages_News_noticeid">
+      <End Role="News" EntitySet="News" />
+      <End Role="NewImages" EntitySet="NewImages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PersonRoutines_Persons_trainerid" Association="Self.FK_PersonRoutines_Persons_trainerid">
+      <End Role="Persons" EntitySet="Persons" />
+      <End Role="PersonRoutines" EntitySet="PersonRoutines" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PersonRoutines_Persons_userid" Association="Self.FK_PersonRoutines_Persons_userid">
+      <End Role="Persons" EntitySet="Persons" />
+      <End Role="PersonRoutines" EntitySet="PersonRoutines" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PersonRoutines_Routines_routineid" Association="Self.FK_PersonRoutines_Routines_routineid">
+      <End Role="Routines" EntitySet="Routines" />
+      <End Role="PersonRoutines" EntitySet="PersonRoutines" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RoutineStages_Routines_routineid" Association="Self.FK_RoutineStages_Routines_routineid">
+      <End Role="Routines" EntitySet="Routines" />
+      <End Role="RoutineStages" EntitySet="RoutineStages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RoutineStages_Stages_stageid" Association="Self.FK_RoutineStages_Stages_stageid">
+      <End Role="Stages" EntitySet="Stages" />
+      <End Role="RoutineStages" EntitySet="RoutineStages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StageImage_Stages_stageid" Association="Self.FK_StageImage_Stages_stageid">
+      <End Role="Stages" EntitySet="Stages" />
+      <End Role="StageImage" EntitySet="StageImages" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EamAndroidMatagymDatabaseModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="C__EFMigrationsHistory">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.C__EFMigrationsHistory">
+        <MappingFragment StoreEntitySet="__EFMigrationsHistory">
+          <ScalarProperty Name="MigrationId" ColumnName="MigrationId" />
+          <ScalarProperty Name="ProductVersion" ColumnName="ProductVersion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Challenges">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.Challenge">
+        <MappingFragment StoreEntitySet="Challenges">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="difficult" ColumnName="difficult" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="type" ColumnName="type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ChallengeStages">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.ChallengeStage">
+        <MappingFragment StoreEntitySet="ChallengeStages">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="challengeid" ColumnName="challengeid" />
+          <ScalarProperty Name="stageid" ColumnName="stageid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Gyms">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.Gym">
+        <MappingFragment StoreEntitySet="Gyms">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="latitude" ColumnName="latitude" />
+          <ScalarProperty Name="longitude" ColumnName="longitude" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Images">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.Image">
+        <MappingFragment StoreEntitySet="Images">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="photo" ColumnName="photo" />
+          <ScalarProperty Name="type" ColumnName="type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Logins">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.Login">
+        <MappingFragment StoreEntitySet="Logins">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="personid" ColumnName="personid" />
+          <ScalarProperty Name="username" ColumnName="username" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Measurements">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.Measurement">
+        <MappingFragment StoreEntitySet="Measurements">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Personid" ColumnName="Personid" />
+          <ScalarProperty Name="bodyFat" ColumnName="bodyFat" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="heartRate" ColumnName="heartRate" />
+          <ScalarProperty Name="height" ColumnName="height" />
+          <ScalarProperty Name="weight" ColumnName="weight" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NewImages">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.NewImage">
+        <MappingFragment StoreEntitySet="NewImages">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="imageid" ColumnName="imageid" />
+          <ScalarProperty Name="noticeid" ColumnName="noticeid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="News">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.News">
+        <MappingFragment StoreEntitySet="News">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Gymid" ColumnName="Gymid" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="title" ColumnName="title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonRoutines">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.PersonRoutine">
+        <MappingFragment StoreEntitySet="PersonRoutines">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="routineid" ColumnName="routineid" />
+          <ScalarProperty Name="trainerid" ColumnName="trainerid" />
+          <ScalarProperty Name="userid" ColumnName="userid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Persons">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.Person">
+        <MappingFragment StoreEntitySet="Persons">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="documentId" ColumnName="documentId" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="gymid" ColumnName="gymid" />
+          <ScalarProperty Name="lastname" ColumnName="lastname" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Routines">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.Routine">
+        <MappingFragment StoreEntitySet="Routines">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="kindOfRoutine" ColumnName="kindOfRoutine" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="typeRoutine" ColumnName="typeRoutine" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RoutineStages">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.RoutineStage">
+        <MappingFragment StoreEntitySet="RoutineStages">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="routineid" ColumnName="routineid" />
+          <ScalarProperty Name="stageid" ColumnName="stageid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StageImages">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.StageImage">
+        <MappingFragment StoreEntitySet="StageImage">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="imageid" ColumnName="imageid" />
+          <ScalarProperty Name="stageid" ColumnName="stageid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Stages">
+      <EntityTypeMapping TypeName="Eam.Android.Matagym.DatabaseModel.Stage">
+        <MappingFragment StoreEntitySet="Stages">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="type" ColumnName="type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

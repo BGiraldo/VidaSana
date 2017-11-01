@@ -1,0 +1,11 @@
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\TestInterface\bin\Debug\TestInterface.exe.config
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\TestInterface\bin\Debug\TestInterface.exe
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\TestInterface\bin\Debug\TestInterface.pdb
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\TestInterface\bin\Debug\WebDriver.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\TestInterface\bin\Debug\WebDriver.Support.dll
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\TestInterface\bin\Debug\WebDriver.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\TestInterface\bin\Debug\WebDriver.Support.xml
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\TestInterface\obj\Debug\TestInterface.csprojResolveAssemblyReference.cache
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\TestInterface\obj\Debug\TestInterface.csproj.CoreCompileInputs.cache
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\TestInterface\obj\Debug\TestInterface.exe
+S:\documentos_ClasesUniversidad\Octavo_Semestre\Ingenieria_II\Eam.Ingenieria.Matagym\TestInterface\obj\Debug\TestInterface.pdb
