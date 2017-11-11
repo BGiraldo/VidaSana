@@ -1,7 +1,0 @@
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Service\bin\Debug\netcoreapp1.1\VidaSana.Service.deps.json
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Service\bin\Debug\netcoreapp1.1\VidaSana.Service.dll
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Service\bin\Debug\netcoreapp1.1\VidaSana.Service.pdb
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Service\obj\Debug\netcoreapp1.1\VidaSana.Service.csproj.CoreCompileInputs.cache
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Service\obj\Debug\netcoreapp1.1\VidaSana.Service.AssemblyInfo.cs
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Service\obj\Debug\netcoreapp1.1\VidaSana.Service.dll
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Service\obj\Debug\netcoreapp1.1\VidaSana.Service.pdb
