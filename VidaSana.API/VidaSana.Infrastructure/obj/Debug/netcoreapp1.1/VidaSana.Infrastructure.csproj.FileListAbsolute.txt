@@ -1,7 +1,0 @@
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Infrastructure\bin\Debug\netcoreapp1.1\VidaSana.Infrastructure.deps.json
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Infrastructure\bin\Debug\netcoreapp1.1\VidaSana.Infrastructure.dll
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Infrastructure\bin\Debug\netcoreapp1.1\VidaSana.Infrastructure.pdb
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Infrastructure\obj\Debug\netcoreapp1.1\VidaSana.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Infrastructure\obj\Debug\netcoreapp1.1\VidaSana.Infrastructure.AssemblyInfo.cs
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Infrastructure\obj\Debug\netcoreapp1.1\VidaSana.Infrastructure.dll
-C:\Users\Nine\Documents\Visual Studio 2017\Projects\VidaSana.API\VidaSana.Infrastructure\obj\Debug\netcoreapp1.1\VidaSana.Infrastructure.pdb
